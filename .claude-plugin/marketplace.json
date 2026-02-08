@@ -1,0 +1,14 @@
+{
+  "name": "bpe-marketplace",
+  "owner": {
+    "name": "labrinyang"
+  },
+  "plugins": [
+    {
+      "name": "bpe",
+      "source": "./",
+      "description": "Brainstorm → Plan → Execute: structured 3-phase development workflow",
+      "version": "1.0.0"
+    }
+  ]
+}

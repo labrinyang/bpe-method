@@ -8,8 +8,12 @@ A Claude Code plugin that enforces structured 3-phase development:
 
 ## Installation
 
-```
-/install-plugin https://github.com/labrinyang/bpe-method
+```bash
+# Step 1: Add marketplace
+/plugin marketplace add labrinyang/bpe-method
+
+# Step 2: Install plugin
+/plugin install bpe@bpe-marketplace
 ```
 ## Usage
 
