@@ -2,6 +2,9 @@
   "name": "bpe",
   "version": "1.0.0",
   "description": "Brainstorm → Plan → Execute: structured 3-phase development workflow with intelligent execution strategy selection",
-  "author": "Labrin",
+  "author": {
+    "name": "Labrin",
+    "url": "https://github.com/labrinyang"
+  },
   "repository": "https://github.com/labrinyang/bpe-method"
 }
